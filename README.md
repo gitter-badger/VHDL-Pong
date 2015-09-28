@@ -1,6 +1,8 @@
 VHDL-Pong
 =========
 
+[![Join the chat at https://gitter.im/MadLittleMods/VHDL-Pong](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MadLittleMods/VHDL-Pong?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Straightforward Pong Game written in VHDL.
 
 Runs on the [Basys 2 board from Digilent](http://www.digilentinc.com/Products/Detail.cfm?Prod=BASYS2)
